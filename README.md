@@ -10,6 +10,7 @@ My name is Shan. I'm doing this assignment to learn GitHub essentials. By comple
 * Make changes to a file and push them to GitHub as commits
 * Open and merge a pull request
 
+Update: Added BSD 3-clause licensing!
 
 # License
 
